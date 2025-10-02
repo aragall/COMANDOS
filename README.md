@@ -1,1 +1,2 @@
-# COMANDOS
+1) git clone https...
+2) git status 

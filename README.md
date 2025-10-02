@@ -5,3 +5,7 @@
 5) git commit help
 6) git commit -m "mi fichero"
 7) git push
+8) git log
+9) git help branch
+10) git branch 
+11) git checkout -b (nombre rama)
